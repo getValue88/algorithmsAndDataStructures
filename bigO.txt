@@ -1,0 +1,4 @@
+O(n)  --> linear
+O(n2) --> quadratic (exponential)
+O(1)  --> constant
+O(log n) --> logaritmic
